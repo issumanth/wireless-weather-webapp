@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Weather Monitoring System",
+  "description": "Live atmospheric monitoring system continuously receiving weather telemetry wirelessly via Internet data with real-time telemetry analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
